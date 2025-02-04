@@ -386,19 +386,19 @@ Life in the United Kingdom (3rd edition)
 
 ## National Anthem ##
 Starts with:
-> God save our gracious Queen!
+> God save our gracious King!
 >
-> Long Live our noble Queen!
+> Long Live our noble King!
 >
-> God save the Queen!
+> God save the King!
 >
-> Send her victorious,
+> Send him victorious,
 >
 > Happy and glorious,
 >
 > Long to reign over us,
 >
-> God save the Queen!
+> God save the King!
 
 ## Government ##
 
