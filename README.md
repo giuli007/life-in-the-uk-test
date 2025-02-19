@@ -3,50 +3,50 @@ Life in the United Kingdom (3rd edition)
 
 ## History Dates ##
 
-| When | What | Details |
-| ---        | ---       | --- |
+| When | What | Details | Picture | Notes |
+| ---        | ---       | --- | --- | --- |
 |10,000yrs         | Britain separated | from the continent | 
 | 6,000yrs          | First farmers | come to Britain from South-East Europe |
 | 4,000yrs          | Bronze Age | then becomes Iron Age |
 | 410                  | Romans end | Roman army(arrived in 43) leaves and never returns |
-| 789                  | Vikings | came from Norway and Denmark, defeated by King Alfred the Great |
-| 1066                | Norman Conquest | William (Duke of Normandy) the Conqueror wins Battle of Hastings and invades Britain |
-| 1215                | Magna Carta | The King is subject to the Law | 
-| 1284                | Statute of Rhuddlan | Kind Edward I annexes Wales |
-| 1314                | Battle of Bannockburn | Robert the Bruce (scots) wins |
+| 789                  | Vikings | came from Norway and Denmark, defeated by King Alfred the Great | <img src="images/alfred-the-great.jpg" width="300"> | like 789 (in numbers) vikings descended from north |
+| 1066                | Norman Conquest | William (Duke of Normandy) the Conqueror wins Battle of Hastings and invades Britain | <img src="images/william-the-conqueror.jpg" width="300"> |
+| 1215                | Magna Carta | The King is subject to the Law (John was king at that time) | 
+| 1284                | Statute of Rhuddlan | Kind Edward I annexes Wales  | <img src="images/Edward-I.jpg" width="300"> |
+| 1314                | Battle of Bannockburn | Robert the Bruce (scots) wins | <img src="images/bannockburn.jpg" width="300"> |
 | 1348                | Black Death | kills 1/3 of population. After which new class "the gentry" appeared, owners of large areas of land  |
-| 1415                | Battle of Agincourt | Henry V wins during the 100 years war against France |
-| 1455                | start of civil war | houses Lanacaster (red rose) and York (white rose) |
-| 1485                | End War of the Roses | Battle of Bosworth, Lancaster wins over York, Henry VII Tudor king, end of Middle Ages, start of the Reformation |
+| 1415                | Battle of Agincourt | Henry V wins during the 100 years war against France | <img src="images/king-henryV.png" width="300"> |
+| 1455                | Start of civil war (war of roses) | houses Lanacaster (red rose) and York (white rose) |
+| 1485                | End War of the Roses | Battle of Bosworth, Lancaster wins over York, Henry VII Tudor king, end of Middle Ages, start of the Reformation | <img src="images/HneryVII.jpg" width="300"> | End of 30 year war |
 | 1560                | Scottish abolish the Pope | |
-| 1588                | Spanish Armada | Elizabeth I defeats spanish invasion to convert to Catholicism |
-| 1603                | James I | End of the Tudor period, James VI of Scotland becomes king |
-| 1605                | Guy Fawkes | with catholics tries to bomb the Parliament to kill the protestant king on 5th of November |
-| 1642                | Civil war | after Charles I asked Parliament for money, Cavaliers(king) and Roundheads(parliament) |
+| 1588                | Spanish Armada | Elizabeth I (led by Sir Francis Drake) defeats spanish invasion to convert to Catholicism | <img src="images/Eli1.jpg" width="300"> |
+| 1603                | James I | End of the Tudor period, James VI of Scotland becomes king known as James I for England | <img src="images/jamesVI.jpg" width="300"> |
+| 1605                | Guy Fawkes | with catholics tries to bomb the Parliament to kill the protestant king on 5th of November | <img src="images/guy-fawkes.jpg" width="300"> |
+| 1642                | Civil war | after Charles I asked Parliament for money, Cavaliers(king) and Roundheads(parliament) | <img src="images/Charles-parliment.jpg" width="300"> |
 | 1646                | End of Civil war | Battle of Marston Moor (also Battle of Naseby) where the king's army is defeated |
 | 1649                | Britain republic | after Charles I is executed |
 | 1656                | fist Jews in England | since the Middle Ages |
-| 1658                | Lord Protector Oliver Cromwell dies | |
-| 1660                | Charles II comes back to be king | (he hid in an oak tree after defeated in Battle of Dunbar in Worcester), ends of 11 years of republic, The Restoration |
+| 1658                | Lord Protector Oliver Cromwell dies | | <img src="images/OliverCromwell.jpg" width="300"> |
+| 1660                | Charles II comes back to be king | (he hid in an oak tree after defeated in Battle of Dunbar in Worcester), ends of 11 years of republic, The Restoration | <img src="images/CharlesII.jpg" width="300"> |
 | 1665                | Plague | |
-| 1666                | Great Fire | |
+| 1666                | Great Fire | | | 666 has a bad reputation. The previous year also had plaque |
 | _1679_            | Habeas Corpus | you must present the person in court |
-| _1685_            | James II | was James VII of Scotland, becomes king after Charles II dies |
-| 1689                | Glorious Revolution | William of Orange invades England | 
-| _1690_            | Battle of Byone | James flees to France with Jacobites supporters |
+| _1685_            | James II | was James VII of Scotland, becomes king James I of England after Charles II dies | <img src="images/JamesII.jpg" width="300"> |
+| 1688                | Glorious Revolution | William of Orange invades England | <img src="images/WilliamIII.jpg" width="300"> |
 | 1689                | Bill of Rights | more control on the King, constitutional monarchy |
+| 1690           | Battle of Byone | James flees to France with Jacobites supporters |
 | 1695                | Newspaper | can operate without government licence |
-| 1707                | Act of Union | Kingdom of Great Britain is created joining Scotland |
-| 1714                | King George I | a german is king, because of his poor english elects Robert Walpole as first Prime Minister |
-| 1745-46           | Bonnie Prince Charlie | tries to get the throne with scots' help but looses at the battle of Culloden, after which Highland Cleareances |
-| 1776                | American colonies independence | 13 colonies declare independence from UK | 
+| 1707                | Act of Union | Kingdom of Great Britain is created joining Scotland | <img src="images/actofunion.jpg" width="300"> | see the early union jack |
+| 1714                | King George I | a german is king, because of his poor english elects Robert Walpole as first Prime Minister | <img src="images/GeorgeI.jpg" width="300"> |
+| 1745-46           | Charles Edward Stuart (Bonnie Prince Charlie) | tries to get the throne with scots' help but looses at the battle of Culloden, after which Highland Cleareances | <img src="images/culloden.jpg" width="300"> | Note the second rebellion head is also Charles |
+| 1776                | American colonies independence | 13 colonies declare independence from UK |  <img src="images/America.jpg" width="300"> |
 | 1783                | Britain recognise independence | |
 | _1789_            | Revolution in France | Napoleon starts war |
-| _1801_            | Ireland unifies with UK | Union Flag |
-| 1805                | Battle of Trafalgar | Britain navy defeats spanish and france with admiral Nelson |
+| _1801_            | Ireland unifies with UK | Union Flag | <img src="images/Flag_of_the_United_Kingdom.svg.png" width="300"> |
+| 1805                | Battle of Trafalgar | Britain navy defeats spanish and france with admiral Nelson | <img src="images/NelsonColumn.jpg" width="300"> | Nelson Column |
 | 1815                | Battle of Waterloo | Duke of Wellington defeats Napoleon | 
 | 1833                | Emancipation Act | | 
-| 1837                | Queen Victoria | at the age of 18 will rule for 64 years Victorian age |
+| 1837                | Queen Victoria | at the age of 18 will rule for 64 years Victorian age |  <img src="images/Victoria.jpg" width="300"> |
 | 1840                | Punch Magazine | satirical magazine |
 | 1846                | Abolishment of Corn Laws | |
 | _1851_            | Great Exhibition | in Hyde Park, Crystal Palace |
