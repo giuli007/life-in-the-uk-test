@@ -6,7 +6,7 @@ All questions were asked in a similar way on the mock exams of this site: [Life 
 
 ## My questions
 
-* __Which of these is true on the Speaker of the House?__ Politically neutral and Member of Parliament. _Incorrect Tricky: Voted in a secrect ballot by all people in the UK_
+* __Which of these is true on the Speaker of the House?__ Politically neutral and Member of Parliament. _Incorrect Tricky: Voted in a secret ballot by all people in the UK_
 * __Which day is St. Andrews celebrated?__ 30th November
 * __Which saint was the first Bishop of Canterbury?__ St. Augustine
 * __Which sport is played in the 6 Nations?__ Rugby
