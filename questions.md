@@ -43,3 +43,9 @@ All questions were asked in a similar way on the mock exams of this site: [Life 
 * __Which of these two plays were by William Shakespear?__ Macbeth and Romeo and Juliet
 * __Which is the highest grossing film from the UK?__ Harry Potter
 * __Who was the architect of the Cenotaph?__ Ludyens
+* __Which is the national flower for Wales?__ Daffodil
+* __Which was the catastrophe during the reign of George II?__ Great Fire
+* __Which of these is the movement away from the Pope during the reign of Henry VIII?__ Reformation
+* __Who was Edgar Elgar?__ Composer
+* __Which court is responsible for Minor Criminal offences in Scotland?__ Justice of the Peace
+* __Which monarch sent out people for the Doomsday book?__ William the Conqueror
