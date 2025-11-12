@@ -322,7 +322,7 @@ Life in the United Kingdom (3rd edition)
 | 4.8%    | Muslim | Eid al-Fitr(end of Ramadan) and Eid ul Adha(remembers that prophet Ibrahim was willing to sacrifice his son) are festivals celebrated by Islam |
 | 1.5%    | Hindu | celebrates Diwali |
 | 0.8%    | Sikh | Vaisakhi festival celebrated on 14th of April, also celebrates Diwali |
-| <0.5% | Jews/Buddhist | Hannuka is a Jew celebration in November or December and lasts 8 days |
+| <0.5% | Jews/Buddhist | Hannuka is a Jewish celebration in November or December and lasts 8 days |
 | 2%    | Other |
 | 25%  | No religion |
 
